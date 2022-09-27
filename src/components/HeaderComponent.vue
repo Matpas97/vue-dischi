@@ -6,10 +6,12 @@
 </template>
 
 <script>
-export default {
+    export default {
     name: 'HeaderComponent'
 }
 </script>
+
+
 
 <style lang="scss" scoped>
 header{

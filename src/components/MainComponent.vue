@@ -1,4 +1,4 @@
-
+<template>
  <main>
     <div class="container">
         <AlbumContainerComponent :albums="albums"  />
